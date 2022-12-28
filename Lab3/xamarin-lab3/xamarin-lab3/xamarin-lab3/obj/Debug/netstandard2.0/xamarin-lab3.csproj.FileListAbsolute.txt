@@ -1,0 +1,14 @@
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/bin/Debug/netstandard2.0/xamarin-lab3.deps.json
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/bin/Debug/netstandard2.0/xamarin-lab3.dll
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/bin/Debug/netstandard2.0/ref/xamarin-lab3.dll
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/bin/Debug/netstandard2.0/xamarin-lab3.pdb
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/xamarin-lab3.csproj.AssemblyReference.cache
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/xamarin-lab3.AssemblyInfoInputs.cache
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/xamarin-lab3.AssemblyInfo.cs
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/xamarin-lab3.csproj.CoreCompileInputs.cache
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/xamarin-lab3.dll
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/ref/xamarin-lab3.dll
+/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/obj/Debug/netstandard2.0/xamarin-lab3.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E7E1DA53-9D9F-4748-A439-D30F82EA5217}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamarin-lab3/xamarin-lab3/MainPage.xaml">
+    <Files>
+      <File FileName="xamarin-lab3/xamarin-lab3/MainPage.xaml" Line="10" Column="15" />
+      <File FileName="xamarin-lab3/xamarin-lab3/MainPage.xaml.cs" Line="9" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xamarin-lab3" expanded="True">
+            <Node name="xamarin-lab3" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.ItemProperties.xamarin-lab3.Android PreferredExecutionTarget="Android.pixel_4_-_api_29" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_4_-_api_29" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

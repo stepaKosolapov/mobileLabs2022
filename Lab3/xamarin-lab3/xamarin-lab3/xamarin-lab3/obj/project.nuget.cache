@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/jg+ku7dxxL9D9ILtazr9+HuqO0pUkf0QLqMgYqbMxGfbj+epHZXyTelwm2UNAdAScX7fI+8tFO7P2lg6JHHg==",
+  "success": true,
+  "projectFilePath": "/Users/stepa-kos/Desktop/mobileLabs/lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3/xamarin-lab3.csproj",
+  "expectedPackageFiles": [
+    "/Users/stepa-kos/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/stepa-kos/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/stepa-kos/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/stepa-kos/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/stepa-kos/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
